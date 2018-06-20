@@ -1,0 +1,12 @@
+package: zycron
+
+ignore:
+- google.golang.org/appengine/cloudsql
+
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.2
+- package: github.com/go-sql-driver/mysql
+  version: v1.3
+- package: github.com/pelletier/go-toml
+  version: v1.1.0

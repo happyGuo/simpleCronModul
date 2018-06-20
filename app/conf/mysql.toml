@@ -1,0 +1,26 @@
+[owner]
+name = "happyguo"
+
+[dev]
+host = "xxxxx"
+port = "3308"
+user = "xxxx"
+password = "xxxx"
+name = "xxxx"
+prefix = "cms_"
+
+[gray]
+host = "xxxxx"
+port = "xxxxx"
+user = "xxxx"
+password = "xxxx"
+name = "xxxx"
+prefix = "cms_"
+
+[prod]
+host = "192.168.xx.xx"
+port = "3306"
+user = "xxx"
+password = "xxx"
+name = "xxxxx"
+prefix = "cms_"
